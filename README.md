@@ -10,4 +10,4 @@ Mapping a social network based on email communication
 ```conda install networkx --force```
 
 ### Community Segmentation
-```conda install -c conda-forge python-louvain --force
+```conda install -c conda-forge python-louvain --force```
